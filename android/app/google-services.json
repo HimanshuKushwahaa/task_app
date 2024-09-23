@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172451489286",
+    "project_id": "kbc-yt-1205f",
+    "storage_bucket": "kbc-yt-1205f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172451489286:android:1c28b049a1507032e98587",
+        "android_client_info": {
+          "package_name": "com.example.task_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172451489286-0cuo8nl9kp13j2g9ugmjnej85hpl98gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv_ttmClmJb9WCc3bdvCAIzWEVhj935MI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172451489286-0cuo8nl9kp13j2g9ugmjnej85hpl98gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
